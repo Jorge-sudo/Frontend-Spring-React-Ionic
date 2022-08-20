@@ -1,0 +1,7 @@
+{
+  "name": "SpringReactIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
